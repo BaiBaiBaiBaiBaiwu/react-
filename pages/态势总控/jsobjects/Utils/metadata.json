@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "态势总控",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "态势总控_Utils",
+  "deleted": false,
+  "gitSyncId": "6458b8cdd192432eef648fce_6458b92ebd80bc02b63ec3ff"
+}
